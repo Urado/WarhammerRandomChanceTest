@@ -2,7 +2,7 @@
 
 namespace WarhammerRandom
 {
-	static class DiceTools
+	public static class DiceTools
 	{
 		private static readonly Random rand = new Random();
 		public static int DiceD3()

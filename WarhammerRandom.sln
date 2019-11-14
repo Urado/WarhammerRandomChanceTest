@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.136
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarhammerRandom", "WarhammerRandom\WarhammerRandom.csproj", "{CF665533-CFE6-4B83-B1C6-B068BA1843AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowAplication", "WindowAplication\WindowAplication.csproj", "{4D490A79-552B-4256-A926-4B43C8F6145C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{CF665533-CFE6-4B83-B1C6-B068BA1843AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF665533-CFE6-4B83-B1C6-B068BA1843AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF665533-CFE6-4B83-B1C6-B068BA1843AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D490A79-552B-4256-A926-4B43C8F6145C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D490A79-552B-4256-A926-4B43C8F6145C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D490A79-552B-4256-A926-4B43C8F6145C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D490A79-552B-4256-A926-4B43C8F6145C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

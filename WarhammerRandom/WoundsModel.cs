@@ -6,9 +6,7 @@ using System.Threading.Tasks;
 
 namespace WarhammerRandom
 {
-	public class Hit
+	public class WoundsModel
 	{
-		public int S { get; }
-		public int Rend { get; }
 	}
 }

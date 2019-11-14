@@ -6,9 +6,7 @@ using System.Threading.Tasks;
 
 namespace WarhammerRandom
 {
-	class Atack
+	public class DamageModel
 	{
-		public Unit Target { get; set; }
-		public Weapon AtackWeapon { get; set; }
 	}
 }

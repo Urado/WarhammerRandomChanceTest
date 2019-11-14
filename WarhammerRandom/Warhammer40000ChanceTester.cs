@@ -48,6 +48,21 @@ namespace WarhammerRandom
 			}
 			return res;
 		}
+
+		public AtackModel StartAtack()
+		{
+			return null;
+		}
+
+		public HitsModel RollToHit(AtackModel atackModel)
+		{
+			return null;
+		}
+
+		public WoundsModel RollToWound(HitsModel hitsModel)
+		{
+			return null;
+		}
 	}
 }
 
